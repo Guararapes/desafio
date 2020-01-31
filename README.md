@@ -49,3 +49,4 @@ Esses criterios não são obrigatorios porém são considerados bonus:
 * Use swagger com spring fox (a documentação das apis podem ser via swagger)
 * Use postgres
 * Crie migrations com liquidbase
+* Se fizer um front em Angular, ponto máximo
