@@ -24,7 +24,7 @@ Bem vindos ao desafio guararapes, nessa fase precisamos validar seus conheciment
 * [Maven](https://maven.apache.org/)
 
 ## Passo 1
-Observe a seguinte api [SWAPI](https://swapi.co/) e sua [documentação](https://swapi.co/documentation)
+Observe a seguinte api [SWAPI](https://swapi.dev/) e sua [documentação](https://swapi.dev/documentation)
 
 ## Passo 2
 Reproduza em "microservices" alguns endpoints dessa API, ou seja, usar essa estrutura para criar alguns microservices. O objetivo é poder servir dados completos sobre os personagens, ou seja, criar um microserviço para cada um dos 5 endpoints:
@@ -37,7 +37,7 @@ Reproduza em "microservices" alguns endpoints dessa API, ou seja, usar essa estr
 ## Passo 3
 Criar um microserviço de integração, que absorva os dados da API original e distribua entre os microservices criados
 
-![asd](out/uml/deployment/deployment.png)
+![deployment](out/uml/deployment/deployment.png)
 
 ## Critérios de aceite
 * Pode ser usado H2, Sqlite ou postgres
@@ -49,4 +49,5 @@ Esses criterios não são obrigatorios porém são considerados bonus:
 * Use swagger com spring fox (a documentação das apis podem ser via swagger)
 * Use postgres
 * Crie migrations com liquidbase
+* Crie um dos microserviços em python 3.8 com Django
 * Se fizer um front em Angular, ponto máximo
