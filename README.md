@@ -59,4 +59,5 @@ Esses criterios não são obrigatorios porém são considerados bonus:
 * Crie migrations com liquidbase
 * Crie um dos microserviços em python 3.8 com Django
 * Crie testes unitários ou de integração (sabe dizer a diferença?)
+* Dockerize as aplicações
 * Se fizer um front em Angular, ponto máximo
