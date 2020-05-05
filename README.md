@@ -1,5 +1,8 @@
 # Desafio Guararapes
-Bem vindos ao desafio guararapes, nessa fase precisamos validar seus conhecimentos em nossa Stack
+Bem vindos ao desafio guararapes, nessa fase precisamos validar seus conhecimentos em nossa Stack, leia toda a documentação abaixo para realizar.
+
+### Esqueletos
+O candidato podem criar os serviços utilizando os esqueletos fornecidos, mas caso queiram criar projetos do zero podem ficar a vontade, todas as ferramentas citadas abaixo estão inclusas nos esqueletos. Não é preciso fazer um fork desse projeto, porém favor entregar um projeto fechado na [gitlab](http://gitlab.com) (para que outros candidatos não vizualizem a sua solução).
 
 ### Linguagens
 * Java 11
@@ -22,6 +25,7 @@ Bem vindos ao desafio guararapes, nessa fase precisamos validar seus conheciment
 * [JPA H2 Database](https://www.h2database.com/html/main.html)
 * [JPA Postgres Database](https://www.postgresql.org/)
 * [drf-yasg](https://github.com/axnsan12/drf-yasg) - Swagger para Django
+* [Angular Material](https://material.angular.io/)
 
 ### Tools
 * [Maven](https://maven.apache.org/)
